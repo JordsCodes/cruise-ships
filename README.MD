@@ -22,6 +22,7 @@ The tests can be accessed by running `npm test` in the root directory.
 
 The project simulates a cruise ship. In the src folder you will find js files for ship, itinerary and port. Port objects are instantiated and passed into Itinerary objects, and these Itinerary objects are passed into the Ship object. 
 
+The gui for this project can be found here: https://github.com/JordsCodes/cruise-ships-gui
 
 ## Credits
 
